@@ -5,8 +5,6 @@ Excel dashboard analyzing the impact of social media usage on student mental hea
 
 An interactive Excel dashboard analyzing the impact of social media on 1,000 students across academic levels, platforms, and usage patterns.
 
-![Dashboard Preview](dashboard_preview.png)
-
 ---
 
 ## 📁 Project Structure
